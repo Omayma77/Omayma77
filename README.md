@@ -37,5 +37,5 @@
 
 #### 📊 Projet en Machine Learning
 - Étude des Gaussian Mixture Models (GMM) et de la réduction de dimension non supervisée.
-- Simulation Python.  
+- Simulation Python + rapport et présentation.  
 🔗 [Voir le projet sur GitHub](https://github.com/Omayma77/ML-GMM-DimensionalityReduction)
