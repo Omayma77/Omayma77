@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BOfXKvO9wTsuvv7%2F6SVsAjw%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="omaima.harchich@gmail.com" target="_blank">
+  <a href="mailto:omaima.harchich@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -28,6 +28,47 @@
 ###
 
 <p align="left">- 🎓 Formation : Master ISI, Université Ibn Tofaïl  <br>- 💡 Centres d'intérêt : IA, systèmes intelligents, développement d'applications  <br>- 🤝 Collaboration : j’aime travailler en équipe et relever des défis techniques  <br>- 📚 Toujours en apprentissage de nouvelles technologies et méthodologies<br><br>---</p>
+
+###
+
+<h3 align="left">🧠 Projets et expériences notables</h3>
+
+<ul>
+  <li>
+    <strong>💄 Boutique en ligne de produits cosmétiques (BeautyStore)</strong><br>
+    Projet de fin d’études réalisé seule.<br>
+    Utilisation du modèle MVC avec Java EE (Servlets, JSP).<br>
+    Base de données pour la gestion des utilisateurs, commandes, messages, etc.<br>
+    Stockage de messages avec redirection conditionnelle vers la page de connexion.<br>
+    <em>Technologies : Java, JPA/Hibernate, HTML/CSS/JS, XAMPP.</em>
+  </li>
+  <br>
+  <li>
+    <strong>🧵 Forum Web avec FastAPI et SQLite</strong><br>
+    Projet backend en Python avec API RESTful.<br>
+    Entités : Utilisateur, Post, Commentaire, Catégorie.<br>
+    Upload d'avatars avec stockage local.<br>
+    <em>Technologies : FastAPI, SQLite3 (sans ORM), Python.</em>
+  </li>
+  <br>
+  <li>
+    <strong>🚗 Parking automatisé (Projet sur les microprocesseurs)</strong><br>
+    Système de contrôle de barrières avec détection de véhicules via capteurs.<br>
+    <em>Technologies : Arduino, capteurs, langage C.</em>
+  </li>
+  <br>
+  <li>
+    <strong>🔬 Mini-projet en Métaheuristiques</strong><br>
+    Contrôle optimal du système de Van der Pol avec l'algorithme d'évolution différentielle.<br>
+    Explication mathématique et simulation Python.
+  </li>
+  <br>
+  <li>
+    <strong>📊 Projet en Machine Learning</strong><br>
+    Étude des Gaussian Mixture Models (GMM) et réduction de dimension non supervisée.<br>
+    Simulation Python, rapport détaillé et présentation.
+  </li>
+</ul>
 
 ###
 
