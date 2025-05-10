@@ -31,45 +31,49 @@
 
 ###
 
-<h3 align="left">🧠 Projets et expériences notables</h3>
 
-<ul>
-  <li>
-    <strong>💄 Boutique en ligne de produits cosmétiques (BeautyStore)</strong><br>
-    Projet de fin d’études réalisé seule.<br>
-    Utilisation du modèle MVC avec Java EE (Servlets, JSP).<br>
-    Base de données pour la gestion des utilisateurs, commandes, messages, etc.<br>
-    Stockage de messages avec redirection conditionnelle vers la page de connexion.<br>
-    <em>Technologies : Java, JPA/Hibernate, HTML/CSS/JS, XAMPP.</em>
-    🔗 [Voir le projet sur GitHub](https://github.com/Omayma77/BeautyStore)
-  </li>
-  <br>
-  <li>
-    <strong>🧵 Forum Web avec FastAPI et SQLite</strong><br>
-    Projet backend en Python avec API RESTful.<br>
-    Entités : Utilisateur, Post, Commentaire, Catégorie.<br>
-    Upload d'avatars avec stockage local.<br>
-    <em>Technologies : FastAPI, SQLite3 (sans ORM), Python.</em>
-  </li>
-  <br>
-  <li>
-    <strong>🚗 Parking automatisé (Projet sur les microprocesseurs)</strong><br>
-    Système de contrôle de barrières avec détection de véhicules via capteurs.<br>
-    <em>Technologies : Arduino, capteurs, langage C.</em>
-  </li>
-  <br>
-  <li>
-    <strong>🔬 Mini-projet en Métaheuristiques</strong><br>
-    Contrôle optimal du système de Van der Pol avec l'algorithme d'évolution différentielle.<br>
-    Explication mathématique et simulation Python.
-  </li>
-  <br>
-  <li>
-    <strong>📊 Projet en Machine Learning</strong><br>
-    Étude des Gaussian Mixture Models (GMM) et réduction de dimension non supervisée.<br>
-    Simulation Python, rapport détaillé et présentation.
-  </li>
-</ul>
+  ### 🧠 Projets et expériences notables :
+
+#### 💄 Boutique en ligne de produits cosmétiques (BeautyStore)
+- Projet de fin d’études réalisé seule.
+- Utilisation du modèle MVC avec Java EE (Servlets, JSP).
+- Base de données pour la gestion des utilisateurs, commandes, messages, etc.
+- Stockage de messages avec redirection conditionnelle vers la page de connexion.
+- Technologies utilisées : Java, JPA/Hibernate, HTML/CSS/JS, XAMPP.  
+🔗 [Voir le projet sur GitHub](https://github.com/Omayma77/BeautyStore)
+
+---
+
+#### 🧵 Forum Web avec FastAPI et SQLite
+- Projet backend en Python avec API RESTful.
+- Entités : Utilisateur, Post, Commentaire, Catégorie.
+- Upload d'avatars avec stockage local.
+- Utilisation du module natif sqlite3 (sans ORM).
+- Framework : FastAPI.  
+🔗 [Voir le projet sur GitHub](https://github.com/Omayma77/FastAPI-Forum)
+
+---
+
+#### 🚗 Parking automatisé (Projet sur les microprocesseurs)
+- Projet avec Arduino et capteurs.
+- Contrôle de barrières et détection de véhicules.
+- Langage utilisé : C.  
+🔗 [Voir le projet sur GitHub](https://github.com/Omayma77/Parking-Automatique)
+
+---
+
+#### 🔬 Mini-projet en Métaheuristiques
+- Exemple de contrôle optimal de Van der Pol avec l'algorithme d'évolution différentielle.
+- Inclut une explication mathématique et simulation Python.  
+🔗 [Voir le projet sur GitHub](https://github.com/Omayma77/Metaheuristiques-VanDerPol)
+
+---
+
+#### 📊 Projet en Machine Learning
+- Étude des Gaussian Mixture Models (GMM) et de la réduction de dimension non supervisée.
+- Simulation Python + rapport et présentation.  
+🔗 [Voir le projet sur GitHub](https://github.com/Omayma77/ML-GMM-DimensionalityReduction)
+
 
 ###
 
