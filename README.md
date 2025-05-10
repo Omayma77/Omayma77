@@ -41,6 +41,7 @@
     Base de données pour la gestion des utilisateurs, commandes, messages, etc.<br>
     Stockage de messages avec redirection conditionnelle vers la page de connexion.<br>
     <em>Technologies : Java, JPA/Hibernate, HTML/CSS/JS, XAMPP.</em>
+    🔗 [Voir le projet sur GitHub](https://github.com/Omayma77/BeautyStore)
   </li>
   <br>
   <li>
