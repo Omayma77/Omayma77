@@ -72,5 +72,7 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omayma77&show_icons=true&theme=radical)
+
 
 ###
