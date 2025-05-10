@@ -66,7 +66,7 @@
   <li>
     <strong>📊 Projet en Machine Learning</strong><br>
     Étude des Gaussian Mixture Models (GMM) et réduction de dimension non supervisée.<br>
-    Simulation Python, rapport détaillé et présentation.
+    Simulation Python et rapport détaillé.
   </li>
 </ul>
 
