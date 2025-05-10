@@ -76,11 +76,11 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/OmaimaHarchich">
-    <img src="https://github-readme-stats.vercel.app/api?username=OmaimaHarchich&show_icons=true&theme=radical&hide_title=true&hide=prs" alt="Omaima's GitHub Stats" />
+  <a href="https://github.com/Omayma77">
+    <img src="https://github-readme-stats.vercel.app/api?username=Omayma77h&show_icons=true&theme=radical&hide_title=true&hide=prs" alt="Omaima's GitHub Stats" />
   </a>
   <a href="https://github.com/OmaimaHarchich">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmaimaHarchich&theme=radical&layout=compact&langs_count=6" alt="Omaima's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omayma77&theme=radical&layout=compact&langs_count=6" alt="Omaima's Top Languages" />
   </a>
 </div>
 
@@ -91,5 +91,5 @@
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=OmaimaHarchich&color=brightgreen&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Omayma77&color=brightgreen&style=flat" alt="Profile Views" />
 </div>
