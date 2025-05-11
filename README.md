@@ -29,7 +29,11 @@
 
 <p align="left">- 🎓 Formation : Master ISI, Université Ibn Tofaïl  <br>- 💡 Centres d'intérêt : IA, systèmes intelligents, développement d'applications  <br>- 🤝 Collaboration : j’aime travailler en équipe et relever des défis techniques  <br>- 📚 Toujours en apprentissage de nouvelles technologies et méthodologies<br><br>---</p>
 
-### 🧠 Projets et expériences notables :
+###
+
+
+
+  ### 🧠 Projets et expériences notables :
 
 #### 💄 Boutique en ligne de produits cosmétiques (BeautyStore)
 - Projet de fin d’études réalisé seule.
@@ -71,9 +75,12 @@
 - Simulation Python.  
 🔗 [Voir le projet sur GitHub](https://github.com/Omayma77/ML-GMM-DimensionalityReduction)
 
----
+
+###
 
 <h3 align="left">🛠 Langages et outils</h3>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
@@ -111,14 +118,17 @@
 
 ###
 
+
 <h3 align="left">📊 Statistiques de profil</h3>
+
+###
 
 <div align="center">
   <a href="https://github.com/Omayma77">
     <img src="https://github-readme-stats.vercel.app/api?username=Omayma77&show_icons=true&theme=radical&hide_title=true&hide=prs" alt="Omaima's GitHub Stats" />
   </a>
   <a href="https://github.com/Omayma77">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omayma77&theme=radical&layout=compact&langs_count=10" alt="Omaima's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omayma77&theme=radical&layout=compact&langs_count=6" alt="Omaima's Top Languages" />
   </a>
 </div>
 
@@ -126,16 +136,8 @@
 
 <h3 align="left">👀 Vues de profil</h3>
 
+###
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Omayma77&color=brightgreen&style=flat" alt="Profile Views" />
 </div>
-
-### 💬 Langages utilisés dans mes projets
-
-- **Python** : FastAPI, ML, métaheuristiques, etc.
-- **Java** : Projet Java EE avec JSP/Servlets, MVC.
-- **C** : Projet microprocesseur avec Arduino.
-- **HTML/CSS/JS** : Frontend des projets web.
-- **PHP** : Développement web avec XAMPP.
-- **SQL** : Requêtes et gestion de bases SQLite / MySQL.
-- **Markdown** : Rédaction de README et documentation.
