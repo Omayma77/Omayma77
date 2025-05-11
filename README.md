@@ -130,9 +130,6 @@
   <a href="https://github.com/Omayma77">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omayma77&theme=radical&layout=compact&langs_count=6" alt="Omaima's Top Languages" />
   </a>
-   <a href="https://github.com/Omayma77">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omayma77&theme=radical&layout=compact&langs_count=6" alt="Omaima's Top Languages" />
-  </a>
 </div>
 
 ###
