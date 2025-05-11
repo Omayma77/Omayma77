@@ -130,12 +130,4 @@
   <img src="https://komarev.com/ghpvc/?username=Omayma77&color=brightgreen&style=flat" alt="Profile Views" />
 </div>
 
-### 💬 Langages utilisés dans mes projets
 
-- **Python** : FastAPI, ML, métaheuristiques, etc.
-- **Java** : Projet Java EE avec JSP/Servlets, MVC.
-- **C** : Projet microprocesseur avec Arduino.
-- **HTML/CSS/JS** : Frontend des projets web.
-- **PHP** : Développement web avec XAMPP.
-- **SQL** : Requêtes et gestion de bases SQLite / MySQL.
-- **Markdown** : Rédaction de README et documentation.
